@@ -9,3 +9,6 @@
   - git add — 準備檔案
   - git commit -m "描述" — 存記錄點
   - git push — 推到 GitHub
+
+##系統資訊
+- fastfetch — 印出系統資訊截圖
