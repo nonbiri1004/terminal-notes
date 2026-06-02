@@ -12,3 +12,4 @@
 
 ##系統資訊
 - fastfetch — 印出系統資訊截圖
+- onefetch — 印出 git repo 資訊（commit 數、作者、大小）
